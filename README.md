@@ -1,8 +1,8 @@
 # Orange🍊 -- 线性数据分析软件
 
 author: Ninglo        
-license: GPL_3.0
-date of coding: 19/11/6 -- 19/11/8
+license: GPL_3.0    
+date of coding: 19/11/6 - 19/11/8
 
 ---
 
