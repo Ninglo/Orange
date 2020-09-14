@@ -1,7 +1,9 @@
 # Orange🍊 -- 线性数据分析软件
 
-[![license](https://img.shields.io/badge/license-GPL_3.0-red.svg)]()
+[![license](https://img.shields.io/badge/license-GPL_3.0-red.svg)](https://github.com/Ninglo/Orange/blob/master/LICENSE)
 [![author](https://img.shields.io/badge/Author-Ninglo-blue.svg)](ninglo.xyz)
+
+date of coding: 19/11/6 - 19/11/8
 
 ---
 
@@ -41,17 +43,17 @@ $ python3 main.pyw
 
 0. 单元格设置
 
-    ![](setCells.gif)
-    ![](setName.gif)
+    ![](./demo/setCells.gif)
+    ![](./demo/setName.gif)
 
 1. 数据计算
 
-    ![](calculate.gif)
+    ![](./demo/calculate.gif)
 
 2. 线性拟合
 
-    ![](draw.gif)
+    ![](./demo/draw.gif)
 
 3. 数据保存
 
-    ![](saveData.png)
+    ![](./demo/saveData.png)
