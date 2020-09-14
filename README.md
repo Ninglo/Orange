@@ -1,7 +1,7 @@
 # Orange🍊 -- 线性数据分析软件
 
-[![license](https://img.shields.io/badge/license-GPL_3.0-red.svg)](https://github.com/Ninglo/Orange/blob/master/LICENSE)
-[![author](https://img.shields.io/badge/Author-Ninglo-blue.svg)](ninglo.xyz)
+[![license](./demo/license-GPL_3.0-red.svg)](https://github.com/Ninglo/Orange/blob/master/LICENSE)
+[![author](./demo/Author-Ninglo-blue.svg)](http://ninglo.xyz)
 
 date of coding: 19/11/6 - 19/11/8
 
